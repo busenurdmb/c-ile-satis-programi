@@ -1,0 +1,11 @@
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\bin\Debug\PROJE6.exe.config
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\bin\Debug\PROJE6.exe
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\bin\Debug\PROJE6.pdb
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\obj\Debug\PROJE6.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\obj\Debug\PROJE6.Form1.resources
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\obj\Debug\PROJE6.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\obj\Debug\PROJE6.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\obj\Debug\PROJE6.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\obj\Debug\PROJE6.exe
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\obj\Debug\PROJE6.pdb
+C:\Users\BUSE NUR\source\repos\PROJE6\PROJE6\obj\Debug\PROJE6.FRMÜRÜN.resources
